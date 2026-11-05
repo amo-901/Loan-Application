@@ -11,16 +11,16 @@
   "id": "APP-0002",
   "status": "Draft",
   "applicant": { "name": "Ben Demo", "email": "ben@example.com" },
-  "loan": { "amount": 500000, "purpose": "Owner-occupier" },
-  "security": { "address": "3 Test Rd, Melbourne, VIC", "value": 700000 },
-  "financials": { "income": 120000, "liabilities": 15000 }
+  "loan": { "amount": 600000, "purpose": "Owner-occupier" },
+  "security": { "address": "3 Test Rd, Melbourne, VIC", "value": 1200000 },
+  "financials": { "income": 70000, "liabilities": 10000 }
     },
     {
   "id": "APP-0003",
   "status": "Draft",
   "applicant": { "name": "Joe Demo", "email": "joe@example.com" },
   "loan": { "amount": 500000, "purpose": "Owner-occupier" },
-  "security": { "address": "5 Showcase Ave, Perth, WA", "value": 700000 },
-  "financials": { "income": 120000, "liabilities": 15000 }
+  "security": { "address": "5 Showcase Ave, Perth, WA", "value": 600000 },
+  "financials": { "income": 50000, "liabilities": 3000 }
     }
 ]
